@@ -22,7 +22,7 @@ NumPy
 
 - How to Run
 Folder structure:
-project/
+seu_project/
 │── recomendar.py
 │── teste.jpg
 └── dataset/
