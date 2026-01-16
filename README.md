@@ -21,11 +21,14 @@ NumPy
 
 
 - How to Run
-Folder structure:
+Folder structure: (Create a folder in Drive called seu_projeto with the following structure)
 seu_project/
-│── recomendar.py
+
+│── recomendar.py (code)
+
 │── teste.jpg
-└── dataset/
+
+└── dataset (Create a folder with several images of silver necklaces, rings, and earrings.)
     ├── img1.jpg
     ├── img2.jpg
     └── ...
